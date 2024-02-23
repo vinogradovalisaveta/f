@@ -1,0 +1,241 @@
+{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "systemd",
+ "status": "sleeping",
+ "pid": 1,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "kthreadd",
+ "status": "sleeping",
+ "pid": 2,
+ "cpu_percent": 0.0
+}{
+ "nice": -20,
+ "username": "root",
+ "num_threads": 1,
+ "name": "rcu_gp",
+ "status": "idle",
+ "pid": 3,
+ "cpu_percent": 0.0
+}{
+ "nice": -20,
+ "username": "root",
+ "num_threads": 1,
+ "name": "rcu_par_gp",
+ "status": "idle",
+ "pid": 4,
+ "cpu_percent": 0.0
+}{
+ "nice": -20,
+ "username": "root",
+ "num_threads": 1,
+ "name": "slub_flushwq",
+ "status": "idle",
+ "pid": 5,
+ "cpu_percent": 0.0
+}{
+ "nice": -20,
+ "username": "root",
+ "num_threads": 1,
+ "name": "netns",
+ "status": "idle",
+ "pid": 6,
+ "cpu_percent": 0.0
+}{
+ "nice": -20,
+ "username": "root",
+ "num_threads": 1,
+ "name": "mm_percpu_wq",
+ "status": "idle",
+ "pid": 11,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "rcu_tasks_kthread",
+ "status": "idle",
+ "pid": 12,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "rcu_tasks_rude_kthread",
+ "status": "idle",
+ "pid": 13,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "rcu_tasks_trace_kthread",
+ "status": "idle",
+ "pid": 14,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "ksoftirqd/0",
+ "status": "sleeping",
+ "pid": 15,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "rcu_preempt",
+ "status": "idle",
+ "pid": 16,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "migration/0",
+ "status": "sleeping",
+ "pid": 17,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "idle_inject/0",
+ "status": "sleeping",
+ "pid": 18,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "cpuhp/0",
+ "status": "sleeping",
+ "pid": 19,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "cpuhp/2",
+ "status": "sleeping",
+ "pid": 20,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "idle_inject/2",
+ "status": "sleeping",
+ "pid": 21,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "migration/2",
+ "status": "sleeping",
+ "pid": 22,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "ksoftirqd/2",
+ "status": "sleeping",
+ "pid": 23,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "cpuhp/4",
+ "status": "sleeping",
+ "pid": 26,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "idle_inject/4",
+ "status": "sleeping",
+ "pid": 27,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "migration/4",
+ "status": "sleeping",
+ "pid": 28,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "ksoftirqd/4",
+ "status": "sleeping",
+ "pid": 29,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "cpuhp/6",
+ "status": "sleeping",
+ "pid": 32,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "idle_inject/6",
+ "status": "sleeping",
+ "pid": 33,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "migration/6",
+ "status": "sleeping",
+ "pid": 34,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "ksoftirqd/6",
+ "status": "sleeping",
+ "pid": 35,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "cpuhp/1",
+ "status": "sleeping",
+ "pid": 38,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "idle_inject/1",
+ "status": "sleeping",
+ "pid": 39,
+ "cpu_percent": 0.0
+}{
+ "nice": 0,
+ "username": "root",
+ "num_threads": 1,
+ "name": "migration/1",
+ "status": "sleeping",
+ "pid": 40,
+ "cpu_percent": 0.0
+}

@@ -1,0 +1,2748 @@
+[
+ [
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "systemd",
+   "status": "sleeping",
+   "pid": 1,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kthreadd",
+   "status": "sleeping",
+   "pid": 2,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "rcu_gp",
+   "status": "idle",
+   "pid": 3,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "rcu_par_gp",
+   "status": "idle",
+   "pid": 4,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "slub_flushwq",
+   "status": "idle",
+   "pid": 5,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "netns",
+   "status": "idle",
+   "pid": 6,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "mm_percpu_wq",
+   "status": "idle",
+   "pid": 11,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "rcu_tasks_kthread",
+   "status": "idle",
+   "pid": 12,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "rcu_tasks_rude_kthread",
+   "status": "idle",
+   "pid": 13,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "rcu_tasks_trace_kthread",
+   "status": "idle",
+   "pid": 14,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ksoftirqd/0",
+   "status": "sleeping",
+   "pid": 15,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "rcu_preempt",
+   "status": "idle",
+   "pid": 16,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "migration/0",
+   "status": "sleeping",
+   "pid": 17,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "idle_inject/0",
+   "status": "sleeping",
+   "pid": 18,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "cpuhp/0",
+   "status": "sleeping",
+   "pid": 19,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "cpuhp/2",
+   "status": "sleeping",
+   "pid": 20,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "idle_inject/2",
+   "status": "sleeping",
+   "pid": 21,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "migration/2",
+   "status": "sleeping",
+   "pid": 22,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ksoftirqd/2",
+   "status": "sleeping",
+   "pid": 23,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "cpuhp/4",
+   "status": "sleeping",
+   "pid": 26,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "idle_inject/4",
+   "status": "sleeping",
+   "pid": 27,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "migration/4",
+   "status": "sleeping",
+   "pid": 28,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ksoftirqd/4",
+   "status": "sleeping",
+   "pid": 29,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "cpuhp/6",
+   "status": "sleeping",
+   "pid": 32,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "idle_inject/6",
+   "status": "sleeping",
+   "pid": 33,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "migration/6",
+   "status": "sleeping",
+   "pid": 34,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ksoftirqd/6",
+   "status": "sleeping",
+   "pid": 35,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "cpuhp/1",
+   "status": "sleeping",
+   "pid": 38,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "idle_inject/1",
+   "status": "sleeping",
+   "pid": 39,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "migration/1",
+   "status": "sleeping",
+   "pid": 40,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ksoftirqd/1",
+   "status": "sleeping",
+   "pid": 41,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "cpuhp/3",
+   "status": "sleeping",
+   "pid": 44,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "idle_inject/3",
+   "status": "sleeping",
+   "pid": 45,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "migration/3",
+   "status": "sleeping",
+   "pid": 46,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ksoftirqd/3",
+   "status": "sleeping",
+   "pid": 47,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/3:0H-ttm",
+   "status": "idle",
+   "pid": 49,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "cpuhp/5",
+   "status": "sleeping",
+   "pid": 50,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "idle_inject/5",
+   "status": "sleeping",
+   "pid": 51,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "migration/5",
+   "status": "sleeping",
+   "pid": 52,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ksoftirqd/5",
+   "status": "sleeping",
+   "pid": 53,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "cpuhp/7",
+   "status": "sleeping",
+   "pid": 56,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "idle_inject/7",
+   "status": "sleeping",
+   "pid": 57,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "migration/7",
+   "status": "sleeping",
+   "pid": 58,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ksoftirqd/7",
+   "status": "sleeping",
+   "pid": 59,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kdevtmpfs",
+   "status": "sleeping",
+   "pid": 62,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "inet_frag_wq",
+   "status": "idle",
+   "pid": 63,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kauditd",
+   "status": "sleeping",
+   "pid": 65,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "khungtaskd",
+   "status": "sleeping",
+   "pid": 66,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "oom_reaper",
+   "status": "sleeping",
+   "pid": 67,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "writeback",
+   "status": "idle",
+   "pid": 69,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kcompactd0",
+   "status": "sleeping",
+   "pid": 70,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 5,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ksmd",
+   "status": "sleeping",
+   "pid": 71,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 19,
+   "username": "root",
+   "num_threads": 1,
+   "name": "khugepaged",
+   "status": "sleeping",
+   "pid": 72,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kintegrityd",
+   "status": "idle",
+   "pid": 73,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kblockd",
+   "status": "idle",
+   "pid": 74,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "blkcg_punt_bio",
+   "status": "idle",
+   "pid": 75,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "tpm_dev_wq",
+   "status": "idle",
+   "pid": 78,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ata_sff",
+   "status": "idle",
+   "pid": 79,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "md",
+   "status": "idle",
+   "pid": 80,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "md_bitmap",
+   "status": "idle",
+   "pid": 81,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "edac-poller",
+   "status": "idle",
+   "pid": 82,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "devfreq_wq",
+   "status": "idle",
+   "pid": 83,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "watchdogd",
+   "status": "sleeping",
+   "pid": 84,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "irq/25-AMD-Vi",
+   "status": "sleeping",
+   "pid": 86,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kswapd0",
+   "status": "sleeping",
+   "pid": 87,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ecryptfs-kthread",
+   "status": "sleeping",
+   "pid": 88,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kthrotld",
+   "status": "idle",
+   "pid": 89,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "irq/26-aerdrv",
+   "status": "sleeping",
+   "pid": 90,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "irq/27-aerdrv",
+   "status": "sleeping",
+   "pid": 91,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "irq/27-pciehp",
+   "status": "sleeping",
+   "pid": 92,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "irq/28-aerdrv",
+   "status": "sleeping",
+   "pid": 93,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "acpi_thermal_pm",
+   "status": "idle",
+   "pid": 99,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "mld",
+   "status": "idle",
+   "pid": 102,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ipv6_addrconf",
+   "status": "idle",
+   "pid": 103,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/6:1H-ttm",
+   "status": "idle",
+   "pid": 105,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kstrp",
+   "status": "idle",
+   "pid": 111,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/u33:0-rtw_tx_wq",
+   "status": "idle",
+   "pid": 113,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "charger_manager",
+   "status": "idle",
+   "pid": 117,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/5:1H-ttm",
+   "status": "idle",
+   "pid": 136,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "irq/31-ELAN1200:00",
+   "status": "sleeping",
+   "pid": 159,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "nvme-wq",
+   "status": "idle",
+   "pid": 186,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "nvme-reset-wq",
+   "status": "idle",
+   "pid": 187,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "nvme-delete-wq",
+   "status": "idle",
+   "pid": 188,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "nvme-auth-wq",
+   "status": "idle",
+   "pid": 189,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "scsi_eh_0",
+   "status": "sleeping",
+   "pid": 195,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "scsi_tmf_0",
+   "status": "idle",
+   "pid": 196,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "jbd2/nvme0n1p2-8",
+   "status": "sleeping",
+   "pid": 217,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ext4-rsv-conver",
+   "status": "idle",
+   "pid": 218,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -1,
+   "username": "root",
+   "num_threads": 1,
+   "name": "systemd-journald",
+   "status": "sleeping",
+   "pid": 257,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "systemd-udevd",
+   "status": "sleeping",
+   "pid": 313,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ccp-1-q2",
+   "status": "sleeping",
+   "pid": 374,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ccp-1-q3",
+   "status": "sleeping",
+   "pid": 375,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ccp-1-q4",
+   "status": "sleeping",
+   "pid": 376,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "hwrng",
+   "status": "sleeping",
+   "pid": 377,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "cryptd",
+   "status": "idle",
+   "pid": 389,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "cfg80211",
+   "status": "idle",
+   "pid": 395,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "led_workqueue",
+   "status": "idle",
+   "pid": 399,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kmemstick",
+   "status": "idle",
+   "pid": 406,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "systemd-oom",
+   "num_threads": 1,
+   "name": "systemd-oomd",
+   "status": "sleeping",
+   "pid": 445,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "systemd-resolve",
+   "num_threads": 1,
+   "name": "systemd-resolved",
+   "status": "sleeping",
+   "pid": 451,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "systemd-timesync",
+   "num_threads": 2,
+   "name": "systemd-timesyncd",
+   "status": "sleeping",
+   "pid": 454,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/u33:2-rtw_tx_wq",
+   "status": "idle",
+   "pid": 459,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "amd_iommu_v2",
+   "status": "idle",
+   "pid": 461,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ttm",
+   "status": "idle",
+   "pid": 557,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "irq/68-rtw88_pci",
+   "status": "sleeping",
+   "pid": 564,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "amdgpu-reset-de",
+   "status": "idle",
+   "pid": 578,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "ttm",
+   "status": "idle",
+   "pid": 582,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 3,
+   "name": "accounts-daemon",
+   "status": "sleeping",
+   "pid": 591,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "acpid",
+   "status": "sleeping",
+   "pid": 592,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "avahi",
+   "num_threads": 1,
+   "name": "avahi-daemon",
+   "status": "sleeping",
+   "pid": 594,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "bluetoothd",
+   "status": "sleeping",
+   "pid": 596,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "cron",
+   "status": "sleeping",
+   "pid": 598,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "messagebus",
+   "num_threads": 1,
+   "name": "dbus-daemon",
+   "status": "sleeping",
+   "pid": 599,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 3,
+   "name": "NetworkManager",
+   "status": "sleeping",
+   "pid": 600,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 2,
+   "name": "irqbalance",
+   "status": "sleeping",
+   "pid": 606,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "networkd-dispat",
+   "status": "sleeping",
+   "pid": 610,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 3,
+   "name": "polkitd",
+   "status": "sleeping",
+   "pid": 613,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 3,
+   "name": "power-profiles-daemon",
+   "status": "sleeping",
+   "pid": 616,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "syslog",
+   "num_threads": 4,
+   "name": "rsyslogd",
+   "status": "sleeping",
+   "pid": 617,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 15,
+   "name": "snapd",
+   "status": "sleeping",
+   "pid": 629,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 3,
+   "name": "switcheroo-control",
+   "status": "sleeping",
+   "pid": 630,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "systemd-logind",
+   "status": "sleeping",
+   "pid": 637,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "amdgpu_dm_hpd_r",
+   "status": "idle",
+   "pid": 639,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "amdgpu_dm_hpd_r",
+   "status": "idle",
+   "pid": 640,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "dm_vblank_contr",
+   "status": "idle",
+   "pid": 641,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 5,
+   "name": "udisksd",
+   "status": "sleeping",
+   "pid": 642,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "wpa_supplicant",
+   "status": "sleeping",
+   "pid": 643,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "avahi",
+   "num_threads": 1,
+   "name": "avahi-daemon",
+   "status": "sleeping",
+   "pid": 658,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 3,
+   "name": "ModemManager",
+   "status": "sleeping",
+   "pid": 674,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "cupsd",
+   "status": "sleeping",
+   "pid": 683,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "card1-crtc0",
+   "status": "sleeping",
+   "pid": 695,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "card1-crtc1",
+   "status": "sleeping",
+   "pid": 696,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "card1-crtc2",
+   "status": "sleeping",
+   "pid": 699,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "card1-crtc3",
+   "status": "sleeping",
+   "pid": 701,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "gfx_low",
+   "status": "sleeping",
+   "pid": 705,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "gfx_high",
+   "status": "sleeping",
+   "pid": 709,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "comp_1.0.0",
+   "status": "sleeping",
+   "pid": 710,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "comp_1.1.0",
+   "status": "sleeping",
+   "pid": 712,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "comp_1.2.0",
+   "status": "sleeping",
+   "pid": 713,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "comp_1.3.0",
+   "status": "sleeping",
+   "pid": 714,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "comp_1.0.1",
+   "status": "sleeping",
+   "pid": 715,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "comp_1.1.1",
+   "status": "sleeping",
+   "pid": 716,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "comp_1.2.1",
+   "status": "sleeping",
+   "pid": 717,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "comp_1.3.1",
+   "status": "sleeping",
+   "pid": 718,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "sdma0",
+   "status": "sleeping",
+   "pid": 720,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "vcn_dec",
+   "status": "sleeping",
+   "pid": 721,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "vcn_enc0",
+   "status": "sleeping",
+   "pid": 722,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "vcn_enc1",
+   "status": "sleeping",
+   "pid": 723,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "jpeg_dec",
+   "status": "sleeping",
+   "pid": 725,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 2,
+   "name": "unattended-upgr",
+   "status": "sleeping",
+   "pid": 759,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 3,
+   "name": "cups-browsed",
+   "status": "sleeping",
+   "pid": 859,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "kernoops",
+   "num_threads": 1,
+   "name": "kerneloops",
+   "status": "sleeping",
+   "pid": 867,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "kernoops",
+   "num_threads": 1,
+   "name": "kerneloops",
+   "status": "sleeping",
+   "pid": 872,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 3,
+   "name": "gdm3",
+   "status": "sleeping",
+   "pid": 967,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 3,
+   "name": "gdm-session-worker",
+   "status": "sleeping",
+   "pid": 972,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 1,
+   "name": "systemd",
+   "status": "sleeping",
+   "pid": 977,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 1,
+   "name": "(sd-pam)",
+   "status": "sleeping",
+   "pid": 978,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -11,
+   "username": "lisaveta",
+   "num_threads": 2,
+   "name": "pipewire",
+   "status": "sleeping",
+   "pid": 984,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 2,
+   "name": "pipewire-media-session",
+   "status": "sleeping",
+   "pid": 985,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -11,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "pulseaudio",
+   "status": "sleeping",
+   "pid": 986,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 7,
+   "name": "ubuntu-report",
+   "status": "sleeping",
+   "pid": 990,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 1,
+   "username": "rtkit",
+   "num_threads": 3,
+   "name": "rtkit-daemon",
+   "status": "sleeping",
+   "pid": 1001,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "gnome-keyring-daemon",
+   "status": "sleeping",
+   "pid": 1008,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "gdm-wayland-session",
+   "status": "sleeping",
+   "pid": 1025,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 1,
+   "name": "dbus-daemon",
+   "status": "sleeping",
+   "pid": 1029,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "gnome-session-binary",
+   "status": "sleeping",
+   "pid": 1036,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "gvfsd",
+   "status": "sleeping",
+   "pid": 1037,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 6,
+   "name": "xdg-document-portal",
+   "status": "sleeping",
+   "pid": 1039,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "xdg-permission-store",
+   "status": "sleeping",
+   "pid": 1053,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 6,
+   "name": "gvfsd-fuse",
+   "status": "sleeping",
+   "pid": 1058,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 1,
+   "name": "fusermount3",
+   "status": "sleeping",
+   "pid": 1071,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 19,
+   "username": "lisaveta",
+   "num_threads": 6,
+   "name": "tracker-miner-fs-3",
+   "status": "sleeping",
+   "pid": 1101,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 2,
+   "name": "gnome-session-ctl",
+   "status": "sleeping",
+   "pid": 1108,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "gnome-session-binary",
+   "status": "sleeping",
+   "pid": 1126,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "at-spi-bus-launcher",
+   "status": "sleeping",
+   "pid": 1140,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 1,
+   "name": "dbus-daemon",
+   "status": "sleeping",
+   "pid": 1146,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 22,
+   "name": "gnome-shell",
+   "status": "sleeping",
+   "pid": 1151,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -10,
+   "username": "root",
+   "num_threads": 1,
+   "name": "krfcommd",
+   "status": "sleeping",
+   "pid": 1235,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "gvfs-udisks2-volume-monitor",
+   "status": "sleeping",
+   "pid": 1241,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "gvfs-goa-volume-monitor",
+   "status": "sleeping",
+   "pid": 1256,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "goa-daemon",
+   "status": "sleeping",
+   "pid": 1262,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "goa-identity-service",
+   "status": "sleeping",
+   "pid": 1288,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "gvfs-gphoto2-volume-monitor",
+   "status": "sleeping",
+   "pid": 1290,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "gvfs-afc-volume-monitor",
+   "status": "sleeping",
+   "pid": 1298,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "gvfs-mtp-volume-monitor",
+   "status": "sleeping",
+   "pid": 1303,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 3,
+   "name": "upowerd",
+   "status": "sleeping",
+   "pid": 1307,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 6,
+   "name": "gnome-shell-calendar-server",
+   "status": "sleeping",
+   "pid": 1319,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "evolution-source-registry",
+   "status": "sleeping",
+   "pid": 1325,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "dconf-service",
+   "status": "sleeping",
+   "pid": 1333,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "gvfsd-metadata",
+   "status": "sleeping",
+   "pid": 1336,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 12,
+   "name": "evolution-calendar-factory",
+   "status": "sleeping",
+   "pid": 1348,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 3,
+   "name": "packagekitd",
+   "status": "sleeping",
+   "pid": 1349,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 6,
+   "name": "evolution-addressbook-factory",
+   "status": "sleeping",
+   "pid": 1371,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "gvfsd-trash",
+   "status": "sleeping",
+   "pid": 1385,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 11,
+   "name": "gjs",
+   "status": "sleeping",
+   "pid": 1401,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "at-spi2-registryd",
+   "status": "sleeping",
+   "pid": 1403,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 1,
+   "name": "sh",
+   "status": "sleeping",
+   "pid": 1420,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "gsd-a11y-settings",
+   "status": "sleeping",
+   "pid": 1421,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "ibus-daemon",
+   "status": "sleeping",
+   "pid": 1423,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "gsd-color",
+   "status": "sleeping",
+   "pid": 1425,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "gsd-datetime",
+   "status": "sleeping",
+   "pid": 1427,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "gsd-housekeeping",
+   "status": "sleeping",
+   "pid": 1428,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "gsd-keyboard",
+   "status": "sleeping",
+   "pid": 1432,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "gsd-media-keys",
+   "status": "sleeping",
+   "pid": 1435,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 5,
+   "name": "gsd-power",
+   "status": "sleeping",
+   "pid": 1439,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "gsd-print-notifications",
+   "status": "sleeping",
+   "pid": 1442,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "gsd-rfkill",
+   "status": "sleeping",
+   "pid": 1443,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "gsd-screensaver-proxy",
+   "status": "sleeping",
+   "pid": 1444,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "gsd-sharing",
+   "status": "sleeping",
+   "pid": 1446,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "gsd-smartcard",
+   "status": "sleeping",
+   "pid": 1448,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "gsd-sound",
+   "status": "sleeping",
+   "pid": 1456,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "gsd-wacom",
+   "status": "sleeping",
+   "pid": 1457,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "ibus-memconf",
+   "status": "sleeping",
+   "pid": 1506,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "ibus-extension-gtk3",
+   "status": "sleeping",
+   "pid": 1510,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "ibus-portal",
+   "status": "sleeping",
+   "pid": 1515,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "gsd-disk-utility-notify",
+   "status": "sleeping",
+   "pid": 1519,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 6,
+   "name": "evolution-alarm-notify",
+   "status": "sleeping",
+   "pid": 1532,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "gsd-printer",
+   "status": "sleeping",
+   "pid": 1550,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 5,
+   "name": "snap-store",
+   "status": "sleeping",
+   "pid": 1574,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "ibus-engine-simple",
+   "status": "sleeping",
+   "pid": 1680,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 1,
+   "name": "snapd-desktop-integration",
+   "status": "sleeping",
+   "pid": 1695,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "snapd-desktop-integration",
+   "status": "sleeping",
+   "pid": 1767,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 7,
+   "name": "xdg-desktop-portal",
+   "status": "sleeping",
+   "pid": 1771,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "xdg-desktop-portal-gnome",
+   "status": "sleeping",
+   "pid": 1775,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "colord",
+   "num_threads": 3,
+   "name": "colord",
+   "status": "sleeping",
+   "pid": 1792,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 11,
+   "name": "gjs",
+   "status": "sleeping",
+   "pid": 1836,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "xdg-desktop-portal-gtk",
+   "status": "sleeping",
+   "pid": 1859,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 4,
+   "name": "update-notifier",
+   "status": "sleeping",
+   "pid": 3208,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 12,
+   "name": "gjs",
+   "status": "sleeping",
+   "pid": 3900,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/5:0-events",
+   "status": "idle",
+   "pid": 4116,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/4:0-mm_percpu_wq",
+   "status": "idle",
+   "pid": 4383,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/6:3-events",
+   "status": "idle",
+   "pid": 4401,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/2:3-events",
+   "status": "idle",
+   "pid": 4412,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/1:3-events",
+   "status": "idle",
+   "pid": 4425,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 97,
+   "name": "java",
+   "status": "sleeping",
+   "pid": 4683,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 7,
+   "name": "Xwayland",
+   "status": "sleeping",
+   "pid": 4763,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 8,
+   "name": "gsd-xsettings",
+   "status": "sleeping",
+   "pid": 4833,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "ibus-x11",
+   "status": "sleeping",
+   "pid": 4862,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 1,
+   "name": "fsnotifier",
+   "status": "sleeping",
+   "pid": 4880,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 37,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 5218,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 1,
+   "name": "cat",
+   "status": "sleeping",
+   "pid": 5224,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 1,
+   "name": "cat",
+   "status": "sleeping",
+   "pid": 5225,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 3,
+   "name": "chrome_crashpad_handler",
+   "status": "sleeping",
+   "pid": 5233,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 2,
+   "name": "chrome_crashpad_handler",
+   "status": "sleeping",
+   "pid": 5235,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 1,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 5241,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 1,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 5242,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 1,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 5244,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 30,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 5269,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 13,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 5270,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 8,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 5282,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 16,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 5303,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 16,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 5319,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 16,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 5331,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 11,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 5343,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 16,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 5382,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 16,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 5404,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 16,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 5415,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 8,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 5849,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 18,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 5953,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 7,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 5989,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 55,
+   "name": "telegram-desktop",
+   "status": "running",
+   "pid": 6066,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/u32:0-events_power_efficient",
+   "status": "idle",
+   "pid": 6448,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 7,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 6493,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 11,
+   "name": "yandex_browser",
+   "status": "sleeping",
+   "pid": 6500,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/2:1-cgroup_destroy",
+   "status": "idle",
+   "pid": 6552,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/3:0-mm_percpu_wq",
+   "status": "idle",
+   "pid": 6554,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/7:1-mm_percpu_wq",
+   "status": "idle",
+   "pid": 6604,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/4:1-mm_percpu_wq",
+   "status": "idle",
+   "pid": 6872,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/6:0",
+   "status": "idle",
+   "pid": 7173,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/0:1-events",
+   "status": "idle",
+   "pid": 7244,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/7:3-events",
+   "status": "idle",
+   "pid": 7345,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/u32:1-events_power_efficient",
+   "status": "idle",
+   "pid": 7658,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/0:2-mm_percpu_wq",
+   "status": "idle",
+   "pid": 7892,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/2:1H-ttm",
+   "status": "idle",
+   "pid": 7994,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/5:3-events",
+   "status": "idle",
+   "pid": 8221,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/6:0H-ttm",
+   "status": "idle",
+   "pid": 8382,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/3:1",
+   "status": "idle",
+   "pid": 8417,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/1:1-mm_percpu_wq",
+   "status": "idle",
+   "pid": 8702,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "usbmux",
+   "num_threads": 2,
+   "name": "usbmuxd",
+   "status": "sleeping",
+   "pid": 8767,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/1:1H-ttm",
+   "status": "idle",
+   "pid": 12110,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/1:3H-ttm",
+   "status": "idle",
+   "pid": 12111,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/3:3H-ttm",
+   "status": "idle",
+   "pid": 12114,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/0:0H-ttm",
+   "status": "idle",
+   "pid": 12115,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/0:3H-kblockd",
+   "status": "idle",
+   "pid": 12116,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/u32:4-events_power_efficient",
+   "status": "idle",
+   "pid": 12432,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 1,
+   "name": "bash",
+   "status": "sleeping",
+   "pid": 13235,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/7:1H-kblockd",
+   "status": "idle",
+   "pid": 13726,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/4:2H-ttm",
+   "status": "idle",
+   "pid": 14166,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/5:0H-ttm",
+   "status": "idle",
+   "pid": 14353,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/u32:3+events_unbound",
+   "status": "disk-sleep",
+   "pid": 14917,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/2:0H-ttm",
+   "status": "idle",
+   "pid": 15873,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/7:0H-ttm",
+   "status": "idle",
+   "pid": 16213,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/4:0H-kblockd",
+   "status": "idle",
+   "pid": 17389,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/2:2H",
+   "status": "idle",
+   "pid": 17934,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/6:2H",
+   "status": "idle",
+   "pid": 17963,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/1:0H",
+   "status": "idle",
+   "pid": 17973,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/0:1H",
+   "status": "idle",
+   "pid": 17974,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/2:0-mm_percpu_wq",
+   "status": "idle",
+   "pid": 17981,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/7:2H",
+   "status": "idle",
+   "pid": 17999,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/u32:2",
+   "status": "idle",
+   "pid": 18006,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/4:1H",
+   "status": "idle",
+   "pid": 18287,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": -20,
+   "username": "root",
+   "num_threads": 1,
+   "name": "kworker/3:1H",
+   "status": "idle",
+   "pid": 18288,
+   "cpu_percent": 0.0
+  },
+  {
+   "nice": 0,
+   "username": "lisaveta",
+   "num_threads": 1,
+   "name": "python3.10",
+   "status": "running",
+   "pid": 18335,
+   "cpu_percent": 0.0
+  }
+ ],
+ 2,
+ 212,
+ 89,
+ 979
+][
+ 2.24462890625,
+ 2.0,
+ 1.90869140625
+]20.0[
+ 5982354,
+ 16302908,
+ 73291,
+ 76694,
+ 0,
+ 0,
+ 0,
+ 0
+]
